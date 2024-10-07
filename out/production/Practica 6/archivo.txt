@@ -1,0 +1,3 @@
+Este es un ejemplo de lectura.
+Estamos en practica 6.
+Solo es un ejemplo de lectura.
